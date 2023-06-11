@@ -8,51 +8,109 @@ Bitcoin is a decentralized digital currency that uses cryptography for security 
 
 AIM:
 
-The aim of the project is to develop an application in which users can track the price  of Bitcoin in Real Time. This application tracks bitcoin price with maximum efficiency using API. It ensure less risk and more profit for investors. This flow model uses the current circulation of Bitcoin and the rate of production to measure the effect of scarcity on the Bitcoin price.
+→The aim of the project is to develop an application in which users can track the price  of Bitcoin in Real Time.
+
+→This application tracks bitcoin price with maximum efficiency using API.
+
+→It ensure less risk and more profit for investors.
+
+→This flow model uses the current circulation of Bitcoin and the rate of production to measure the effect of scarcity on the Bitcoin price.
+
 
 SCOPE:
 
-Today Bitcoin is a secure transaction system that has a valuable impact on capital. They are awarded under a restriction in which customers offer their computer authority to register and listing trades with the bitcoins. The purchase and sale of Bitcoins in different currencies is carried out in an alternative workplace where "purchase" or "sell" requests are placed in the ordered e-book. In the current societal and economic climate there is a growing incentive to hold less cash and be hedged against intense market swings. Recently, a trend started where publicly traded companies were beginning to convert cash in their treasuries over to Bitcoin as a more sound store-of-value. As per the financial investment experts, is expected that Bitcoin will reach to an unimaginable 21 million by the end of 2040. There is much scope for the evolution of Bitcoin during the next 10 years. It will be imperative for the investors to focus closely on several areas in the ecosystem of Bitcoin at present.
+↪Today Bitcoin is a secure transaction system that has a valuable impact on capital.
+
+↪They are awarded under a restriction in which customers offer their computer authority to register and listing trades with the bitcoins.
+
+↪The purchase and sale of Bitcoins in different currencies is carried out in an alternative workplace where "purchase" or "sell" requests are placed in the ordered e-book.
+
+↪In the current societal and economic climate there is a growing incentive to hold less cash and be hedged against intense market swings.
+
+↪Recently, a trend started where publicly traded companies were beginning to convert cash in their treasuries over to Bitcoin as a more sound store-of-value.
+
+↪As per the financial investment experts, is expected that Bitcoin will reach to an unimaginable 21 million by the end of 2040.
+
+↪There is much scope for the evolution of Bitcoin during the next 10 years. It will be imperative for the investors to focus closely on several areas in the ecosystem of Bitcoin at present.
+
 
 PROPOSED SYSTEM:
 
-In this system we are introducing a python module to overcome the drawbacks of existing project. Any search engine shows users the Bitcoin price. But it does not tell users the exact price of that particular time. To overcome this problem, we are proposing a system that tracks the Bitcoin price in real time. We are going to develop an website-based application, in which users can track the price of Bitcoin in real-time and also they can see the current price by refreshing the page in real-time. We are providing user an eco-friendly system that shows the user Bitcoin price in real-time.
+•In this system we are introducing a python module to overcome the drawbacks of existing project.
+
+•Any search engine shows users the Bitcoin price.
+
+•But it does not tell users the exact price of that particular time.
+
+•To overcome this problem, we are proposing a system that tracks the Bitcoin price in real time.
+
+•We are going to develop an website-based application, in which users can track the price of Bitcoin in real-time and also they can see the current price by refreshing the page in real-time.
+
+•We are providing user an eco-friendly system that shows the user Bitcoin price in real-time.
+
 
 METHODOLOGY:
 
-Python
-Tkinter
-Request
-Date and time
+
+1.Python
+
+2.Tkinter
+
+3.Request
+
+4.Date and time
+
 
 APPLICATIONS:
 
-Protection from inflation.
-Self-governance and managed.
-Provides user-friendly interface so that users may buy, sell, exchange Bitcoins.
-Independent and Security.
-Help to gauge user gains in real time.
+
+1.Protection from inflation.
+
+2.Self-governance and managed.
+
+3.Provides user-friendly interface so that users may buy, sell, exchange Bitcoins.
+
+4.Independent and Security.
+
+5.Help to gauge user gains in real time.
+
 
 IMPLEMENTATION:
 
+
 In this we are using the Technologies and creating an website-based application to track the Bitcoin Price in real-time. The following Technologies are:
-Python language is used to develop the Application: “Bitcoin Price Tracker".
-Tkinter is used to create the GUI for the Application.
-The 'requests’ module allows us to send HTTP request using python.
-‘Datetime’ module supplies classes to manipulate date and time.
+
+1.Python language is used to develop the Application: “Bitcoin Price Tracker".
+
+2.Tkinter is used to create the GUI for the Application.
+
+3.The 'requests’ module allows us to send HTTP request using python.
+
+4.‘Datetime’ module supplies classes to manipulate date and time.
+
 
 RESULT:
 
-We made our project as useful for the users who needs this and all related users. We conclude result that our project is useful for those people who are tracking the Bitcoin Price in real-time. Our product is so useful that it can track the cryptocurrency Bitcoin price and it can also give the accurate price by refreshing the page. Our project’s objective is to help users who want to know the current price of Bitcoin. This in turn helps them to know the price details and makes sure that they were up to-date.
+
+⁕We made our project as useful for the users who needs this and all related users.
+
+⁕We conclude result that our project is useful for those people who are tracking the Bitcoin Price in real-time.
+
+⁕Our product is so useful that it can track the cryptocurrency Bitcoin price and it can also give the accurate price by refreshing the page.
+
+⁕Our project’s objective is to help users who want to know the current price of Bitcoin. This in turn helps them to know the price details and makes sure that they were up to-date.
 
 
 ![Picture1](https://github.com/saikiran5555/bitcoinpricetracker/assets/116197365/242e3beb-dfca-4830-aa44-9d4bd4e5d103)
 
 ![Picture2](https://github.com/saikiran5555/bitcoinpricetracker/assets/116197365/8187cd95-c0d7-47f8-958c-d6f14c9be2f1)
 
+
 CONCLUSION:
 
+
 We are finally drawn the conclusion that during the course of this project, we were able to successfully develop a Bitcoin price tracker application. This project distinguishes out from others in its field, due to the nature of its Gui as well as its capacity to precisely monitor the operation of bitcoin exchanges in a matter of milliseconds.
+
 
 FUTURE SCOPE:
 
